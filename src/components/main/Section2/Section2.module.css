@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Icomoon";
+  src: local("icomoon"), url(./../../../fonts/icomoon.woff) format("woff");
+}
+.about_bg {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+}
+.container {
+  max-width: 1280px;
+  text-align: center;
+  transform: translateY(-50%);
+}
+
+.about {
+  padding: 30px 200px;
+  background-color: #fcd8ca;
+  border-radius: 10px;
+}
+
+.about_h2 {
+  font-size: 48px;
+  color: #1f2937;
+  font-family: "Icomoon";
+  font-weight: 100;
+}
+.about_description {
+  text-align: center;
+  color: #374151;
+  font-size: 18px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.about_button {
+  display: inline-block;
+  background-color: #374151;
+  color: rgb(255, 255, 255);
+  padding: 13px 25px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.link {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  font-style: 14px;
+  color: rgb(67, 54, 104);
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}

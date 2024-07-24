@@ -1,0 +1,16 @@
+.content_video {
+  min-height: 200px;
+  max-width: 630px;
+  position: relative;
+}
+.content_rain {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.content_video_bg {
+  position: absolute;
+  left: -80px;
+  top: 200px;
+}

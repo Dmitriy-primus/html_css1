@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+}
+.card {
+  background-color: #ccc;
+
+  height: 500px;
+  width: 500px;
+}
+.blok {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid rgb(93, 156, 93);
+  margin: 0 auto;
+  transition: all 5s ease-in-out;
+}
+.blok:hover {
+  background-color: rgb(238, 255, 0);
+  transform: translateY(-50%) scale(1.2);
+}
