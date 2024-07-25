@@ -1,0 +1,24 @@
+.learn {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-height: 400px;
+  max-width: 1280px;
+  padding-top: 30px;
+}
+.learn_column {
+  max-height: 300px;
+  width: 300px;
+}
+.learn_image {
+  padding: 10px;
+}
+.learn_title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin: 10px 0;
+}
+.learn p {
+  line-height: 20px;
+}

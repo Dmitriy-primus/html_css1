@@ -1,0 +1,96 @@
+.container {
+  margin-top: 20px;
+  max-width: 1280px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: center;
+}
+.teachers {
+  text-align: center;
+}
+.teachers_content {
+  padding: 60px 0;
+
+  text-align: center;
+}
+.teachers_link {
+  display: inline-block;
+  background-color: rgb(250, 197, 238);
+  color: black;
+  border-radius: 8px;
+  padding: 4px 8px;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 11px;
+}
+.teachers_title {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  margin-bottom: 28px;
+  max-width: 691px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  line-height: 57px;
+}
+.teachers_text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: rgb(43, 43, 43);
+  max-width: 730px;
+  margin: 0 auto;
+  line-height: 25px;
+}
+.teachers_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  max-width: 1000px;
+
+  height: 500px;
+}
+.teachers_over {
+  display: inline-block;
+  height: 450px;
+  width: 300px;
+  padding: 10px;
+}
+.over_text {
+  text-align: center;
+}
+.over_title {
+  margin: 20px 0;
+}
+.teachers_over2 {
+  display: inline-block;
+  height: 450px;
+  width: 300px;
+  padding: 10px;
+}
+.over_section {
+  margin-top: 20px;
+}
+.over_section2 {
+  margin-top: 30px;
+}
+.teachers_bg {
+  display: inline-block;
+  height: 450px;
+  width: 350px;
+  border-radius: 10px;
+}
+.bg_foto {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.section7_link {
+  margin-top: 100px;
+  background-color: rgb(43, 41, 41);
+  padding: 7px 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  text-shadow: 1px 3px 2px black;
+}

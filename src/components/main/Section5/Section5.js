@@ -16,7 +16,7 @@ const Section5 = () => {
             neque, reiciendis quia, doloribus a animi est, quas officia. Eaque
             ea vero voluptatem vitae.
           </p>
-          <button className={styles.student_btn2}></button>
+          <button className={styles.student_btn2}>Запись на курс</button>
         </div>
       </div>
       <div className={styles.student_img}>
