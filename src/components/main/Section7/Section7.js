@@ -77,10 +77,11 @@ const Section7 = () => {
             </div>
           </div>
         </div>
-
-        <a className={styles.section7_link} href="#">
-          Get started
-        </a>
+        <div className={styles.teachers_button}>
+          <a className={styles.teachers_btn} href="#">
+            Get started
+          </a>
+        </div>
       </div>
     </section>
   );

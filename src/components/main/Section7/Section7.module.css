@@ -86,8 +86,10 @@
   object-fit: cover;
   border-radius: 10px;
 }
-.section7_link {
-  margin-top: 100px;
+.teachers_button {
+  margin-top: 30px;
+}
+.teachers_btn {
   background-color: rgb(43, 41, 41);
   padding: 7px 10px;
   font-size: 14px;
